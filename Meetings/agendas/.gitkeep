@@ -1,54 +1,141 @@
 Week l
+- **Tasks**:
 - do general research on UML, use cases, activity diagrams,architectural diagrams, sequence diagrams.
 - understand each topic over the next few weeks (week 4)
 - set timelines for the each task
+  - Form a team of 4 members and assign roles.
+  - Set up a GitHub repository for the project and organize the folder structure (including `agendas` and `minutes`).
+  - Schedule regular weekly meetings (e.g., every Tuesday at 3 PM).
+  - Review and understand the project brief from the document COMP6030-CW-Case Study.
+  - Discuss and agree on the distribution of subsystems among team members.
+- **Deliverables**:
+  - GitHub repository setup.
+  - Team member roles assigned.
+  - Meeting schedule established.
 
 Week 2
+- **Tasks**:
 - learn how to do use case diagrams.
 - organise all tasks and take notes on what we need to do as a team.
 - create necessary documents for the completion of coursework
+  - Define collaboration mechanism (e.g., communication platforms, GitHub branching strategy).
+  - Hold the first official team meeting (set agenda and record minutes).
+  - Begin analysis of subsystem requirements for ClaClo (Student, Teacher, Admin, Manager).
+  - Start developing the Use Case Model for each subsystem.
+- **Deliverables**:
+  - Meeting agenda and minutes uploaded to GitHub.
+  - Use Case diagrams drafted for each subsystem.
 
 Week 3
+- **Tasks**:
 - learn how to do activity diagrams and architectural models.
 - decide what tools will he used.
+  - Finalize the Use Case Model for each subsystem.
+  - Develop an Activity Diagram for one selected use case of each subsystem.
+  - Continue holding weekly meetings, reviewing progress, and refining requirements.
+- **Deliverables**:
+  - Completed Use Case diagrams for each subsystem.
+  - Initial drafts of Activity Diagrams for each subsystem's selected use case.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 4
+- **Tasks**:
 - decide on who is doing what subsystem of the project.
 - decide on who is doing extra task as " operational system"
+  - Start working on architectural design for each subsystem in microservices architectural style.
+  - Identify the microservices provided by and requested by each subsystem.
+  - Hold a team meeting to discuss subsystem integration and common services.
+- **Deliverables**:
+  - UML Component Diagram for each subsystem's architectural design.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 5
+- **Tasks**:
 - create git hub repository.
 - generate use case diagrams for the chosen subsystem (basic structure is fine)
 - learn how to to activity diagrams.
+  - Work as a team to develop the architectural design of the entire system, integrating all subsystems.
+  - Specify components, connectors, methods, and parameters in textual documentation.
+  - Continue with weekly meetings.
+- **Deliverables**:
+  - UML Component Diagram for the whole system's architectural design.
+  - Textual documentation of components and connectors.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 6
+- **Tasks**:
 - finilise the use case diagrams.
 - generate activity diagram for task 1.
 - learn how to do architectural diagrams and behavioural models
+  - Each member selects one component from their subsystem and develops a Class Diagram for the structural model.
+  - Hold a meeting to review progress and align designs for consistency.
+- **Deliverables**:
+  - UML Class Diagram for one component of each subsystem.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 7
+ **Tasks**:
 - finilise activity diagram for the chosen subtask.
 - generate architectural diagrams for the chose subsystem.
 - need to make UML diagram (basic structure).
+  - Develop a Sequence Diagram for the selected component in each subsystem.
+  - Ensure the Sequence Diagram is consistent with the structural model.
+  - Hold weekly meetings to discuss integration issues.
+- **Deliverables**:
+  - UML Sequence Diagram for the selected component of each subsystem.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 8
+- **Tasks**:
 - work on architecture model of the whole system. (Team)
 - learn how to generate structural models and behaviour models
 - lean about test plans.
+  - Develop a unit test plan for one microservice in each subsystem.
+  - Define test cases to cover all services of the selected component.
+  - Hold weekly meeting to discuss test plan structure.
+- **Deliverables**:
+  - Unit test plan document for each subsystem.
+  - Meeting agenda and minutes uploaded to GitHub
 
 Week 9
+- **Tasks**:
 - generate structural and behavioural models
 - generate unit and system test plans.
 - update the UML and whole system architectural model
+  - Develop a system test plan for one use case of each subsystem.
+  - Define test cases to cover different scenarios of the selected use case.
+  - Hold weekly meetings to review and refine test plans.
+- **Deliverables**:
+  - System test plan document for each subsystem.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 10
+- **Tasks**:
 - finilise the structural a behavioural models
 - need to finilise the unit 4 system test plans.
 - record all the models ( take screenshots ).
+  - Conduct integration testing for the subsystems.
+  - Refine architectural and detailed design documents based on test results.
+  - Hold a team meeting to review the final state of the system.
+- **Deliverables**:
+  - Integration test results.
+  - Updated design documents.
+  - Meeting agenda and minutes uploaded to GitHub.
 
 Week 11
+- **Tasks**:
 - add everything to the created documents
 - finilise the documents and also the UML a whole system model.
+  - Prepare all documents for submission.
+  - Create the compressed (zip) file with all files listed in the coursework requirements.
+  - Upload the zip file to the module's Moodle website.
+  - Ensure all original editable files are uploaded to GitHub with history.
+  - Hold the final meeting to ensure everything is complete.
+- **Deliverables**:
+  - COMP6030\_CW\_Gxx.zip containing all required files.
+  - Final meeting agenda and minutes uploaded to GitHub.
+
+
 
 
 
